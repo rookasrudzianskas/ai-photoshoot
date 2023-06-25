@@ -4,6 +4,7 @@ import axios from "axios";
 import { createContext, ReactNode, RefObject, useRef, useState } from "react";
 import { useQuery } from "react-query";
 
+// Constants to be used
 export const PROJECTS_PER_PAGE = 9;
 
 export const ProjectContext = createContext<{
