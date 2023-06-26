@@ -1,4 +1,4 @@
-## Stack
+## Stack of project
 
 - ▲ [Next.js](https://nextjs.org/) for webapp
 - 🖼 [Chakra UI](https://chakra-ui.com/) for UI components
