@@ -8,7 +8,6 @@ In progress to updating to app.
 - 👩‍🎨 [Stable Diffusion](https://replicate.com/stability-ai/stable-diffusion) an open-source text-to-image generation model
 
 
-
 ## Getting Started
 
 Install dependencies:
