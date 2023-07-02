@@ -1,6 +1,7 @@
 ## Stack of project (old pages dir)
 
 
+
 In progress to updating to app.
 - ▲ [Next.js](https://nextjs.org/) for webapp
 - 🖼 [Chakra UI](https://chakra-ui.com/) for UI components
