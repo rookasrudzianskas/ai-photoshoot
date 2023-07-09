@@ -73,6 +73,7 @@ OPENAI_API_KEY=
 OPENAI_API_SEED_PROMPT=
 ```
 
+
 Please note that if you want to use the provided `docker-compose` setup you have to disable `TLS` in your `.env.local` by adding:
 
 ```
